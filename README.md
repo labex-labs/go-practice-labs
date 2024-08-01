@@ -18,7 +18,7 @@ This course contains lots of labs for Go, each lab is a small Go project with de
 |      05 | 📖 String Manipulation in Go                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15512'>Start Lab</a> |
 |      06 | 📖 Strings and Runes                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15513'>Start Lab</a> |
 |      07 | 📖 Arrays Manipulation in Golang                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15453'>Start Lab</a> |
-|      08 | 📖 Mastering Go Slices: A Hands-on                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15506'>Start Lab</a> |
+|      08 | 📖 Go Slices: A Hands-on                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15506'>Start Lab</a> |
 |      09 | 📖 Creating and Manipulating Go Maps                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15487'>Start Lab</a> |
 |      10 | 📖 Struct Manipulation in Go                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15515'>Start Lab</a> |
 |      11 | 📖 Golang Pointers Comprehension                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15494'>Start Lab</a> |

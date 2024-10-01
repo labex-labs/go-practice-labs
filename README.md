@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                | Difficulty   | Practice                                                                                                                     |
-|---------|-----------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                               | Difficulty   | Practice                                                                                                                     |
+|---------|----------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Go Basics: Value Types Exploration               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-go-basics-value-types-exploration-15526'>Start Lab</a>                |
 |      02 | 📖 Golang Constants Comprehension                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-golang-constants-comprehension-15465'>Start Lab</a>                   |
 |      03 | 📖 Exploring Golang Variable Declarations           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-exploring-golang-variable-declarations-15527'>Start Lab</a>           |

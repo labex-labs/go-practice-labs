@@ -6,7 +6,7 @@
 
 This course contains lots of labs for Go, each lab is a small Go project with detailed guidance and solutions. You can practice your Go skills by completing these labs, improve your coding skills, and learn how to write clean and efficient code.
 
-![Go](https://img.shields.io/badge/Go-whitesmoke?style=for-the-badge&logo=go)
+![Golang](https://img.shields.io/badge/Golang-whitesmoke?style=for-the-badge&logo=golang)
 
 
 ## Environment
@@ -109,7 +109,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## More
 
-- 🔗 [Go Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Go Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
+- 🔗 [ Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [ Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [ Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
 

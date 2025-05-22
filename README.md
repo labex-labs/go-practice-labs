@@ -1,6 +1,6 @@
 # Go Practice Labs
 
-[![Go Practice Labs](https://cover-creator.appbot.io/go-practice-labs.png)](https://labex.io/courses/go-practice-labs)
+[![Go Practice Labs](https://cover-creator.labex.io/go-practice-labs.png)](https://labex.io/courses/go-practice-labs)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/go-practice-labs)
 
@@ -15,7 +15,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict “Learn by Doing” approach with exclusive hands-on labs and no videos.
+- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
@@ -25,9 +25,9 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                               | Difficulty   | Practice                                                                                                                     |
-|---------|----------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Go Basics: Value Types Exploration               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-go-basics-value-types-exploration-15526'>Start Lab</a>                |
+|   Index | Name                                                | Difficulty   | Practice                                                                                                                     |
+|---------|-----------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Go Basics: Value Types Exploration               | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/go-go-basics-value-types-exploration-15526'>Start Lab</a>                |
 |      02 | 📖 Golang Constants Comprehension                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-golang-constants-comprehension-15465'>Start Lab</a>                   |
 |      03 | 📖 Exploring Golang Variable Declarations           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-exploring-golang-variable-declarations-15527'>Start Lab</a>           |
 |      04 | 📖 String Formatting Fundamentals in Golang         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-string-formatting-fundamentals-in-golang-15511'>Start Lab</a>         |
